@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    height:100vh;
+    background: #EAB7DC;
+    color:#000;
+}
+
+.wrapper{
+    width: 1000px;
+    margin:0 auto;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    list-style-type:none;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-size: 1.5em;
+    font-weight: bold;
+}
